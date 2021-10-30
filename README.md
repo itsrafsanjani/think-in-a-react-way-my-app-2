@@ -1,4 +1,12 @@
-# React, Prettier, Eslint Starter
+# Notes
+
+> lesson 11
+
+- One way data flow (Top-Down approach)
+- Unidirectional data flow
+- Single source of truth (data)
+
+# React, TailwindCSS, Prettier, Eslint Starter
 
 > Starter for faster development. Just clone and use!
 
