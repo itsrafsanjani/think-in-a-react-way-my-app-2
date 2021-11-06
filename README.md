@@ -6,6 +6,11 @@
 - Unidirectional data flow
 - Single source of truth (data)
 
+> lesson 12
+
+- Inheritance
+- Composition
+
 # React, TailwindCSS, Prettier, Eslint Starter
 
 > Starter for faster development. Just clone and use!
