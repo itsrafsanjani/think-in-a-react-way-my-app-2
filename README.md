@@ -11,6 +11,13 @@
 - Inheritance
 - Composition
 
+> lesson 13
+
+- HOC (Higher Order Component)
+- It is like a component wrapper.
+- Put same kind of state manipulation code in a HOC.
+- Get functionality from props.
+
 # React, TailwindCSS, Prettier, Eslint Starter
 
 > Starter for faster development. Just clone and use!

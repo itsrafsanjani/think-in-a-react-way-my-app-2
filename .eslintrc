@@ -48,7 +48,8 @@
     ],
     "import/no-extraneous-dependencies": 0,
     "global-require": 0,
-    "react/no-unescaped-entities": 0
+    "react/no-unescaped-entities": 0,
+    "jsx-a11y/mouse-events-have-key-events": 0
   },
   "plugins": ["prettier", "react", "react-hooks"]
 }
