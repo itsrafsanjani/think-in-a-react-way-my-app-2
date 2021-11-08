@@ -18,6 +18,12 @@
 - Put same kind of state manipulation code in a HOC.
 - Get functionality from props.
 
+> lesson 14
+
+- Render Prop
+- Prop that defines render logic
+- Render props children variation
+
 # React, TailwindCSS, Prettier, Eslint Starter
 
 > Starter for faster development. Just clone and use!

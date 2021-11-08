@@ -1,7 +1,6 @@
-import withCounter from './HOC/withCounter';
+import React from 'react';
 
-const ClickCounter = (props) => {
-    const { count, incrementCount } = props;
+export default function ClickCounter({ count, incrementCount }) {
     return (
         <div>
             <button
@@ -13,6 +12,4 @@ const ClickCounter = (props) => {
             </button>
         </div>
     );
-};
-
-export default withCounter(ClickCounter);
+}
