@@ -24,6 +24,11 @@
 - Prop that defines render logic
 - Render props children variation
 
+> lesson 15
+
+- Props drilling
+- Context API
+
 # React, TailwindCSS, Prettier, Eslint Starter
 
 > Starter for faster development. Just clone and use!
