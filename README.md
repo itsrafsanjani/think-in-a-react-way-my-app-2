@@ -29,6 +29,12 @@
 - Props drilling
 - Context API
 
+> lesson 16
+
+- Context API Practical
+- Create a new custom context
+- Use React context
+
 # React, TailwindCSS, Prettier, Eslint Starter
 
 > Starter for faster development. Just clone and use!
