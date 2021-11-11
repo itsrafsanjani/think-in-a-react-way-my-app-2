@@ -35,6 +35,15 @@
 - Create a new custom context
 - Use React context
 
+> lesson 17
+
+- contextType & useContext hook
+- use useContext hook in functional component
+- use `Content.contextType = ThemeContext;` in class component
+- Example: `export default class Content extends React.Component { render() { const { theme, switchTheme } = this.context; return () } }`
+
+Content.contextType = ThemeContext;
+
 # React, TailwindCSS, Prettier, Eslint Starter
 
 > Starter for faster development. Just clone and use!
